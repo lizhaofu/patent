@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="solrcloud">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/solrcloud" />
+      <root url="file://$PROJECT_DIR$/webmagic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/solrcloud" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/webmagic" recursive="false" />
+  </library>
+</component>

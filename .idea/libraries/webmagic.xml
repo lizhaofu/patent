@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="webmagic">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/webmagic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/webmagic" recursive="false" />
+  </library>
+</component>
